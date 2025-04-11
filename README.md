@@ -22,9 +22,9 @@ A web-based system designed to support veterinary clinics in managing operations
 ---
 
 ## 🚀 Outcome
-✅ Increased efficiency in clinic operations  
-✅ Improved communication between vets and pet owners  
-✅ Real-world application of full-stack web development
+- Increased efficiency in clinic operations  
+- Improved communication between vets and pet owners  
+- Real-world application of full-stack web development
 
 ---
 
